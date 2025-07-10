@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/jowag/Repos/MetaHumanTeachingTemplate/MetaHuman_TT/Content/MetaHuman/SM_Mesh_0_Part_0_001.uasset",
+				"C:/Users/jowag/Repos/MetaHumanTeachingTemplate/MetaHuman_TT/Content/MetaHuman/NewMaterial.uasset",
+				"C:/Users/jowag/Repos/MetaHumanTeachingTemplate/MetaHuman_TT/Content/MetaHuman/tex_u0_v0_diffuse.uasset",
+				"C:/Users/jowag/Repos/MetaHumanTeachingTemplate/MetaHuman_TT/Content/MetaHuman/tex_u0_v0_normal.uasset",
+				"C:/Users/jowag/Repos/MetaHumanTeachingTemplate/MetaHuman_TT/Content/MetaHuman/JohnnysScan.uasset",
+				"C:/Users/jowag/Repos/MetaHumanTeachingTemplate/MetaHuman_TT/Content/ImportedFbx/default_tex0_001.uasset",
+				"C:/Users/jowag/Repos/MetaHumanTeachingTemplate/MetaHuman_TT/Content/ImportedFbx/SM_Mesh_0_Part_0_001.uasset",
 				"C:/Users/jowag/Documents/Unreal Projects/MetaHuman_TT/Content/NewWorld.umap"
 			]
 		}
