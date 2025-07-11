@@ -35,7 +35,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\jowag\Repos\MetaHumanTeachingTemplate\MetaHuman_TT\Intermediate\PipInstall"
+VIRTUAL_ENV="C:\Users\elena\OneDrive\Desktop\BlueberryMountain\MetaHumanTeachingTemplate\MetaHuman_TT\Intermediate\PipInstall"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
