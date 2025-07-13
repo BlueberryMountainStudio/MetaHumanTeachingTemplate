@@ -76,5 +76,15 @@ Config/*
 # Samples Folder
 Samples/*
 
+# Saved Folder
+Saved/*
+
+#Intermediate
+Intermediate/*
+
 # Build Folder
 Windows/*
+
+# Cache files for the editor to use
+DerivedDataCache/*
+
