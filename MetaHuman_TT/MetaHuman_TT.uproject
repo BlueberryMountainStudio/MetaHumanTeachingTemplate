@@ -54,6 +54,10 @@
 		{
 			"Name": "AlembicHairImporter",
 			"Enabled": true
+		},
+		{
+			"Name": "HairModelingToolset",
+			"Enabled": true
 		}
 	]
 }
