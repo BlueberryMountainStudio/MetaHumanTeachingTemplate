@@ -9739,3 +9739,6 @@ FPackageName: Skipped package /MetaHumanCharacter/Optional/Clothing/DefaultGarme
 [2025.10.30-10.08.50:399][309]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
 [2025.10.30-10.08.50:399][309]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
 [2025.10.30-10.08.50:399][309]LogPakFile: Destroying PakPlatformFile
+[2025.10.30-10.08.51:235][309]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.10.30-10.08.51:628][309]LogExit: Exiting.
+[2025.10.30-10.08.51:672][309]Log file closed, 10/30/25 11:08:51
